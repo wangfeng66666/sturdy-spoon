@@ -1,2 +1,3 @@
 # sturdy-spoon
-learning
+learningmy 
+my first repository
